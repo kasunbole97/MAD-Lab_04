@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NotificationEX</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="phone" translatable="false">Telephone</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="repassword" translatable="false">Re- Type Password</string>
+    <string name="regbtn">Register</string>
+    <string name="cbtn">CANCEL</string>
+    <string name="name1">Name</string>
+</resources>
